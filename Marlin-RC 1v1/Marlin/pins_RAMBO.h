@@ -111,6 +111,7 @@
 #define SDSS               53
 #define LED_PIN            13
 #define FAN_PIN            8
+//#define FAN_1              6 //Added JYS for second Fan
 
 #define FILWIDTH_PIN        3  // ANALOG NUMBERING
 
