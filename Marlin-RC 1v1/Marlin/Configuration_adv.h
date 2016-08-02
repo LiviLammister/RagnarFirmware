@@ -162,7 +162,7 @@
 // the fan will turn on when any selected extruder is above the threshold.
  //Modified 
 #define EXTRUDER_0_AUTO_FAN_PIN 6
-#define EXTRUDER_1_AUTO_FAN_PIN -1
+#define EXTRUDER_1_AUTO_FAN_PIN 6
 #define EXTRUDER_2_AUTO_FAN_PIN -1
 #define EXTRUDER_3_AUTO_FAN_PIN -1
 #define EXTRUDER_AUTO_FAN_TEMPERATURE 50
